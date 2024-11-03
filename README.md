@@ -1,3 +1,9 @@
+---
+license: mit
+datasets:
+- HuggingFaceFW/fineweb
+pipeline_tag: text-generation
+---
 # Tiny-LLM
 
 A Tiny LLM model with just 10 Million parameters, this is probably one of the small LLM arounds, and it is functional.
